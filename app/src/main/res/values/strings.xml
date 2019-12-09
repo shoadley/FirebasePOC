@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase POC</string>
+    <string name="insert_quote_here">Insert Quote Here</string>
+    <string name="author">Author</string>
+    <string name="save">Save</string>
+    <string name="fetch">Fetch</string>
+</resources>
